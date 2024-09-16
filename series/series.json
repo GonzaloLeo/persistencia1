@@ -1,0 +1,21 @@
+
+[
+    {
+        "id":1,
+        "nombre" : "Vikingos",
+        "plataforma" : "netflix",
+        "disponible" : true
+    },
+    {
+        "id": 2,
+        "nombre" : "Lost",
+        "plataforma" : "Star+",
+        "disponible" : false
+    },
+    {
+        "id": 3,
+        "nombre" : "El Encargado",
+        "plataforma" : "Disney",
+        "disponible" : true
+    }
+]
